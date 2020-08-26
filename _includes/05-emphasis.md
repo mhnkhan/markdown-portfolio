@@ -4,4 +4,4 @@ _MD_
 **Git**
 __Github__
 
-_Focused_
+_Sheer **focused** will_
