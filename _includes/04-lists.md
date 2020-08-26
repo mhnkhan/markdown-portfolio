@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Emojis
+* :octocat:
+* :sparkles:
+	* :deciduous_tree:
+	* :heart:
+* :+1:
